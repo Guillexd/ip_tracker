@@ -1,0 +1,21 @@
+{
+  "ip": "179.6.42.33",
+  "location": {
+    "country": "PE",
+    "region": "Jun\u00edn",
+    "city": "Huancayo",
+    "lat": -12.06513,
+    "lng": -75.20486,
+    "postalCode": "",
+    "timezone": "-05:00",
+    "geonameId": 3939459
+  },
+  "as": {
+    "asn": 12252,
+    "name": "LACNIC-12252",
+    "route": "179.6.42.0\/24",
+    "domain": "http:\/\/www.claro.com.pe",
+    "type": "NSP"
+  },
+  "isp": "America Movil Peru S.A.C."
+}
